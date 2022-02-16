@@ -1,4 +1,4 @@
-# iocchile
+# IOC-CHILE
 Proyecto IOC Honeypot SPAM
 
 Aqui se presentan los IOC de SPAM detectados y analizados para su estudio, bloqueo o fines que estimen pertienentes, si sus URL o IP se encuentran en la lista y desea mas información envienos un mail a contacto@anquan.cl para mas antecedentes.
